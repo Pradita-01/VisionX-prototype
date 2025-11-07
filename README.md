@@ -99,6 +99,7 @@ Empower everyone—from coastal scientists to local volunteers—to report, veri
 - Uses analytics dashboard to track incident trends and plan response.
 
 ---
+## The model:[https://drive.google.com/drive/folders/1gQ-gxcLfu1Ud0fcTN13aH2sSVHFbfl9O?dmr=1&ec=wgc-drive-globalnav-goto]
 
 ## Architecture
 
